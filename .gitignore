@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#my files
+/src/components/Services/*.pdf
+/src/img
+/src/fonts
+/src/Contact/Keys.js
