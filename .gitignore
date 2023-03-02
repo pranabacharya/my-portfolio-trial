@@ -24,6 +24,6 @@ yarn-error.log*
 
 #my files
 /src/components/Services/*.pdf
-/src/img
-/src/fonts
+/src/img/
+/src/fonts/
 /src/components/Contact/Keys.js
